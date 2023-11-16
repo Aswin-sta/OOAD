@@ -17,3 +17,4 @@ CurrentAccount(CashDeposit, OnlineBanking, ATMWithdrawl, MobileBanking)
 LoanAccount(CashDeposit, ChequeDeposit)
 
 ## Class Diagram
+![model umlcd](https://github.com/Aswin-sta/OOAD/assets/96405492/2cffba21-3d36-410a-8510-1aba02f6b1dc)
